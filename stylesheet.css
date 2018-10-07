@@ -6,7 +6,8 @@ body {
 .header {
  color:red;
   background-color:
-  font-size:40px;
+  font-size:60px;
+  opacity:.8;
   text-align:center;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
