@@ -1,12 +1,12 @@
 body {
   background-image: url("https://pbs.twimg.com/profile_images/490892778843668480/gdXnfYix.jpeg");
   background-repeat: repeat;
+  opacity:.5;
 }
 
 .header {
  color:red;
   font-size:60px;
-  opacity:.8;
   text-align:center;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
