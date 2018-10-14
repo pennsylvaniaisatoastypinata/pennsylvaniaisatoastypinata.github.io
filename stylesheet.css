@@ -12,3 +12,19 @@ body {
   text-align:center;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
+
+.avocadoStuff {
+  font-size:20px;
+  font-family:Arial;
+  background-color: #472291;
+  border: 2px dashed #222f91;
+  padding:6px;
+  text-align:center;
+  color:white;
+}
+
+#avocadoHeader {
+  font-family:"Times New Roman", Serif;
+  font-size:28px;
+  color:#ff6b6b;
+}
